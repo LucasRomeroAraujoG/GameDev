@@ -11,12 +11,15 @@ Each folder inside represents a separate game or project created during the cour
 
 ## About the Course
 
-This course teaches the basics of C++ programming through practical game development. It covers:
+The course is designed for beginners who want to learn C++ programming through hands-on game development. It covers:
 
-- Fundamental C++ syntax and concepts
-- Game loop and rendering with Raylib
-- Input handling and collision detection
-- Basic game mechanics implementation
+- Basics of C++ syntax, variables, and control flow  
+- Object-oriented programming fundamentals  
+- Using the Raylib library for graphics and input handling  
+- Creating game loops, collision detection, and simple gameplay mechanics  
+- Building small projects that progressively increase in complexity
+
+By the end of the course, students gain practical experience in both C++ and game development principles.
 
 ## Where to Buy the Course
 
